@@ -19,7 +19,6 @@ Steps
 
       add nameservers: ``echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf``
 
-      refresh dns table: ``resolvconf -u``
 
 4. On computer: 
 
